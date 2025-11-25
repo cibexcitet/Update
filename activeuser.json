@@ -4,13 +4,13 @@
     "username": "ryan",
     "password": "ryan222",
     "expirydate": "31-12-2999",
-    "allowoffline": true
+    "Allowoffline": true
   },
   {
     "device_id": "de651bc7cc7676ba",
     "username": "user",
     "password": "12345",
     "expirydate": "31-12-2999",
-    "allowoffline": true
+    "Allowoffline": true
   }
 ]
